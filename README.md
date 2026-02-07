@@ -12,7 +12,7 @@
 
 [LLVIP dataset](https://bupt-ai-cz.github.io/LLVIP/)
 
-[LOL dataset]([BMVC2018 Deep Retinex Decomposition](https://daooshee.github.io/BMVC2018website/))
+[LOL dataset](https://daooshee.github.io/BMVC2018website/)
 
 
 
